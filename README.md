@@ -31,3 +31,6 @@ This is a simple calculator application that demonstrates the use of Dependency 
 
 This structure makes it easy to extend the application by adding new computation types without modifying existing code, following the Open-Closed Principle of SOLID design.
 
+
+![Editor _ Mermaid Chart-2025-04-09-235635](https://github.com/user-attachments/assets/7fc670f5-e4c7-4c57-a60c-93064524be52)
+
